@@ -1,6 +1,6 @@
 rgname = {
     rg1 = { 
-        name = "rgabhishek"
+        name = "RGAbhishek1"
         location = "eastus"
     }
 }
