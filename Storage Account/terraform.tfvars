@@ -1,10 +1,10 @@
 sa = {
   sa1 = {
-    name                     = "abhi04032024"
-    rgname                   = "rgabhishek"
+    name                     = "abhisheksa2"
+    rgname                   = "RGAbhishek1"
     location                 = "eastus"
     account_tier             = "Standard"
     account_replication_type = "LRS"
-    container = "abhiContainer"
+    container = "abhisac"
   }
 }
